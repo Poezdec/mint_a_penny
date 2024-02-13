@@ -1,2 +1,2 @@
 # mint_a_penny
-Soft for mint: https://www.mintapenny.xyz/
+Софт для минта фришки от Coinbase: https://www.mintapenny.xyz/
